@@ -73,10 +73,10 @@ Conversely for Lot 3, the p-value for Lot 2 is 0.04. This is less than the .05 s
 
 I would begin by collecting data across all manufacturers for:
 
--Original Price
--MPG
--Cost of Ownership
--Resale Value
+*Original Price
+*MPG
+*Cost of Ownership
+*Resale Value
 
 The null hypothesis would be that the MechaCar is priced correctly based on the metrics provided. The alternative hypothesis would then be that MechaCare is not priced correctly based on the metrics provided.
 
